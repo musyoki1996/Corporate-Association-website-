@@ -1,0 +1,1126 @@
+MASTER DEVELOPMENT PROMPT
+
+DIGITAL BODA DRIVERS AND DELIVERIES ASSOCIATION OF KENYA (DBDDAK)
+
+PROJECT ROLE
+
+Act as an elite multidisciplinary team comprising:
+
+- Senior UI/UX Designer
+- Senior Full-Stack Software Engineer
+- Enterprise Systems Architect
+- Database Administrator
+- Cybersecurity Engineer
+- Membership Management Systems Developer
+- Digital Identity and Verification Specialist
+- Kenyan Digital Transformation Consultant
+
+Your task is to design and develop a complete, production-ready corporate website and digital membership management platform for:
+
+DIGITAL BODA DRIVERS AND DELIVERIES ASSOCIATION OF KENYA (DBDDAK)
+
+Official slogan: "Safety and Sanity"
+
+The association represents digital boda boda riders, motorcycle taxi operators, delivery riders and other stakeholders in Kenya's motorcycle transport and delivery industry.
+
+The platform must serve as the association's official digital headquarters, membership registration system, member verification platform, communication hub and administrative management system.
+
+This is not a simple informational website. Build a comprehensive, database-driven web application with functional public pages, secure member accounts, membership verification, administrative dashboards and scalable backend architecture.
+
+Official website reference:
+https://digitalboda.co.ke/organization/
+
+Existing member portal reference:
+https://portal.digitalboda.co.ke/
+
+Use the reference website to understand the association's identity, objectives, services, policies and organizational structure. Improve the presentation, functionality, user experience and technical architecture without losing the association's identity.
+
+---
+
+PART 1: BRAND IDENTITY AND DESIGN SYSTEM
+
+1.1 Official Branding
+
+Use the uploaded DBDDAK logo as the primary and authoritative brand identity.
+
+Do not redesign, distort, replace or unnecessarily modify the original logo.
+
+Extract the brand's visual language from the uploaded logo.
+
+Primary brand colours:
+
+- Deep Navy Blue: #101F68
+- Association Orange: #F04416
+- White: #FFFFFF
+- Light Grey: #F4F6FA
+- Dark Charcoal: #202633
+
+Use navy blue for trust, authority, professionalism and institutional identity.
+
+Use orange for calls to action, important highlights, membership status indicators and visual emphasis.
+
+Use white and light grey for clean layouts and readability.
+
+1.2 Design Direction
+
+Create a premium, modern, professional institutional website comparable in quality to established national associations, professional membership organizations and public-sector digital platforms.
+
+The design must feature:
+
+- Elegant typography.
+- Spacious layouts.
+- Professional photography of Kenyan boda boda riders and delivery operators.
+- High-quality motorcycle transport imagery.
+- Modern cards and information panels.
+- Subtle animations and transitions.
+- Professional navigation.
+- Consistent iconography.
+- Clear visual hierarchy.
+- Accessible colour contrast.
+- Responsive layouts.
+
+Avoid generic AI-generated website designs, excessive gradients, unnecessary animations, cluttered layouts and oversized decorative elements.
+
+The website must look credible, authoritative and suitable for engagement with government agencies, regulators, development partners, financial institutions and private-sector organizations.
+
+---
+
+PART 2: PUBLIC WEBSITE STRUCTURE
+
+Create the following main navigation:
+
+1. Home
+2. About Us
+3. Organization
+4. Membership
+5. Member Verification
+6. Our Services
+7. News & Updates
+8. Projects & Impact
+9. Resources & Policies
+10. Contact Us
+
+Include prominent navigation actions:
+
+- Become a Member
+- Verify a Member
+- Member Login
+
+Make the navigation sticky, responsive and mobile-friendly.
+
+2.1 Homepage
+
+Create a powerful homepage that introduces DBDDAK as a national association dedicated to promoting professionalism, safety, economic empowerment and the welfare of digital boda boda and delivery riders.
+
+Hero section:
+
+Headline:
+"Driving Kenya Towards a Safer, Smarter and More Professional Boda Boda Industry."
+
+Supporting statement:
+"Empowering digital boda boda riders and delivery professionals through representation, safety, technology, economic opportunities and collective responsibility."
+
+Primary CTA:
+"Become a Member"
+
+Secondary CTA:
+"Verify a Member"
+
+Additional CTA:
+"Explore Our Organization"
+
+Include:
+
+- Professional photographic hero banner.
+- Association introduction.
+- Mission and vision.
+- Key organizational objectives.
+- Membership benefits.
+- Featured services.
+- Safety and professionalism initiatives.
+- Economic empowerment programs.
+- National representation.
+- Latest announcements.
+- Upcoming events.
+- Community impact stories.
+- Testimonials.
+- Strategic partners.
+- Newsletter subscription.
+- Contact information.
+- Professional footer.
+
+Use real, relevant motorcycle transport imagery rather than unrelated construction or generic corporate stock photography.
+
+2.2 About Us
+
+Include:
+
+- Organizational background.
+- Who we are.
+- Our history.
+- Our mission.
+- Our vision.
+- Core values.
+- Strategic objectives.
+- Organizational mandate.
+- Legal and institutional information.
+- Our commitment to the boda boda industry.
+
+Preserve the association's stated organizational identity and registration information. Make all legal and regulatory claims editable by authorized administrators.
+
+2.3 Organization
+
+Develop a comprehensive organizational profile.
+
+Include:
+
+- National leadership.
+- Executive committee.
+- National secretariat.
+- County leadership.
+- Sub-county leadership.
+- Ward representatives.
+- Local chapters and rider groups.
+- Organizational departments.
+- Committees.
+- Organizational structure chart.
+
+Each leadership profile should support:
+
+- Full name.
+- Official position.
+- Professional photograph.
+- Short biography.
+- County or region.
+- Contact information, where authorized.
+- Term of office.
+- Active/inactive status.
+
+Build a visually appealing organizational hierarchy.
+
+Allow administrators to update leadership profiles without modifying source code.
+
+2.4 Our Services
+
+Create dedicated service sections for:
+
+1. Road Safety and Professionalism.
+2. Member Welfare and Social Protection.
+3. Economic Empowerment.
+4. Financial Inclusion and SACCO Support.
+5. Insurance and Risk Management.
+6. Training and Capacity Building.
+7. Legal Advocacy and Member Representation.
+8. Fair Working Conditions.
+9. Regulatory Compliance.
+10. Sustainable Transport and Environmental Protection.
+11. Technology Adoption.
+12. Community Development and Social Responsibility.
+13. Security and Emergency Support.
+14. Partnerships and Investment Opportunities.
+
+Each service must have a detailed page describing its purpose, benefits, eligibility and how members can access it.
+
+Do not present proposed benefits or partnerships as already operational unless administrators have confirmed them.
+
+---
+
+PART 3: MEMBERSHIP REGISTRATION AND MANAGEMENT
+
+This is one of the most important components of the entire system.
+
+Build a complete digital membership management system.
+
+3.1 Online Membership Registration
+
+Create an intuitive multi-step membership registration form.
+
+Collect the following information:
+
+Personal Information
+
+- Full legal name.
+- National ID number.
+- Date of birth.
+- Gender.
+- Phone number.
+- Alternative phone number.
+- Email address.
+- County.
+- Sub-county.
+- Ward.
+- Physical location.
+- Passport-size photograph.
+
+Professional Information
+
+- Membership category.
+- Occupation.
+- Type of rider or delivery operator.
+- Motorcycle registration number, where applicable.
+- Motorcycle ownership status.
+- Ride-hailing or delivery platform affiliation.
+- Operating location.
+- Years of experience.
+
+Compliance Information
+
+- National ID document upload.
+- Driving licence details and upload.
+- Motorcycle logbook or relevant ownership documentation, where applicable.
+- Relevant insurance information.
+- Other documents required by the association.
+
+Membership Declaration
+
+Include:
+
+- Agreement to association constitution and bylaws.
+- Agreement to relevant policies.
+- Consent to lawful processing of personal data.
+- Confirmation that the supplied information is accurate.
+- Digital declaration and submission.
+
+Registration must support mobile devices and low-bandwidth connections.
+
+3.2 Membership Categories
+
+Create configurable membership categories, including:
+
+- Ordinary Members.
+- Digital Boda Riders.
+- Delivery Riders.
+- Corporate Members.
+- Associate Members.
+- Honorary Members.
+- Institutional or Strategic Partners.
+
+Allow administrators to configure categories, eligibility requirements and applicable fees.
+
+3.3 Registration Workflow
+
+Implement the following workflow:
+
+1. Applicant completes registration.
+2. System generates a unique application reference.
+3. Applicant receives an acknowledgement.
+4. Application enters the pending verification queue.
+5. Authorized membership officer reviews the information.
+6. Officer approves, rejects or requests additional documents.
+7. Applicant receives a notification.
+8. Approved applicant receives a unique membership number.
+9. Digital membership card is automatically generated.
+10. Member account is activated.
+
+Membership must not automatically become approved merely because an application has been submitted or payment has been made.
+
+3.4 Digital Membership Card
+
+Automatically generate a professional digital membership ID card.
+
+The card must include:
+
+- Official DBDDAK logo.
+- Member's full name.
+- Member photograph.
+- Unique membership number.
+- Member category.
+- County and operating region.
+- Membership issue date.
+- Expiry or renewal date, where applicable.
+- QR code.
+- Verification URL.
+- Membership status.
+
+Support:
+
+- Download as PDF.
+- Mobile-friendly digital card.
+- Printing.
+- QR-code scanning.
+- Secure online verification.
+
+The digital card must be dynamically generated from approved database records.
+
+Never allow applicants to generate official membership cards before approval.
+
+---
+
+PART 4: PUBLIC MEMBERSHIP VERIFICATION SYSTEM
+
+Build a prominent, independent and fully functional membership verification portal.
+
+This feature must be accessible without requiring the visitor to create an account.
+
+Page title:
+
+"VERIFY A DIGITAL BODA MEMBER"
+
+Supporting text:
+
+"Confirm the membership status and identity of an individual claiming to represent the Digital Boda Drivers and Deliveries Association of Kenya."
+
+4.1 Verification Methods
+
+Provide three verification methods:
+
+Method A: Membership Number
+
+Allow visitors to enter a unique membership number.
+
+Method B: QR Code
+
+Allow visitors to scan the QR code on the member's digital membership card.
+
+Method C: National ID Verification
+
+Allow an authorized verification workflow using an applicant's national ID number, subject to appropriate privacy safeguards.
+
+Do not publicly expose national ID numbers or allow unrestricted searches using sensitive personal identifiers.
+
+4.2 Verification Results
+
+When a valid membership number or QR code is submitted, retrieve the member's record from the database.
+
+Display:
+
+- Member's photograph, where consent permits.
+- Full name.
+- Membership number.
+- Membership category.
+- County or operating region.
+- Membership status.
+- Verification date.
+- Official association branding.
+- Secure verification reference.
+
+Possible membership statuses:
+
+- VERIFIED / ACTIVE.
+- PENDING APPROVAL.
+- EXPIRED.
+- SUSPENDED.
+- INACTIVE.
+- REVOKED.
+- NOT FOUND.
+
+Use clear visual status indicators.
+
+A successful verification must mean the member is currently approved and in good standing according to the association's configured membership rules.
+
+If a record is suspended, expired or revoked, clearly communicate that it is not currently valid.
+
+Never display sensitive personal information, residential addresses, full national ID numbers or private contact information.
+
+4.3 Anti-Fraud and Security
+
+Implement:
+
+- Cryptographically secure verification tokens.
+- Non-guessable membership identifiers.
+- QR-code validation against the live database.
+- Rate limiting.
+- CAPTCHA or equivalent abuse protection.
+- Audit logs.
+- Protection against fabricated membership cards.
+- Revocation of compromised cards.
+- Detection of duplicate membership records.
+
+A downloaded or printed card must not be treated as proof of active membership without live verification.
+
+---
+
+PART 5: MEMBER PORTAL
+
+Create a secure member login portal.
+
+Retain the existing portal's ID Number and Member Number login concept, but improve authentication and security.
+
+Portal URL:
+/member-portal
+
+Provide secure login and account recovery.
+
+5.1 Member Dashboard
+
+After login, members should see:
+
+- Welcome message.
+- Membership profile.
+- Membership number.
+- Membership status.
+- Digital membership card.
+- QR verification link.
+- Registration details.
+- Membership renewal information.
+- Payment and contribution history.
+- Outstanding membership fees, where applicable.
+- Association announcements.
+- Upcoming events.
+- Training opportunities.
+- Welfare notices.
+- Member support requests.
+- Documents and downloadable resources.
+
+5.2 Member Account Management
+
+Allow members to:
+
+- Update permitted personal information.
+- Upload new documents.
+- Request profile corrections.
+- Download membership cards.
+- View payment receipts.
+- Submit complaints.
+- Request membership renewal.
+- Report safety or security incidents.
+- Apply for available member programs.
+- Receive official announcements.
+
+Changes to sensitive identity information must require administrative review.
+
+5.3 Member Support
+
+Include a support ticket system.
+
+Members should be able to submit:
+
+- Membership inquiries.
+- Payment disputes.
+- Welfare requests.
+- Safety incidents.
+- Complaints.
+- Technical support requests.
+
+Allow members to track the progress and resolution of submitted tickets.
+
+---
+
+PART 6: ADMINISTRATIVE MANAGEMENT SYSTEM
+
+Build a comprehensive, secure administrative backend.
+
+Admin URL:
+/admin
+
+The administrative interface must be separate from the public website.
+
+Use role-based access control.
+
+6.1 Administrative Dashboard
+
+Display:
+
+- Total registered members.
+- Active members.
+- Pending applications.
+- Rejected applications.
+- Suspended members.
+- Expired memberships.
+- New registrations.
+- Membership renewals.
+- County membership distribution.
+- Sub-county membership distribution.
+- Membership categories.
+- Recent payments.
+- Pending support tickets.
+- Upcoming activities.
+
+Include charts, data tables, filters and reporting tools.
+
+All dashboard figures must be calculated from actual database records, not hardcoded sample numbers.
+
+6.2 Membership Administration
+
+Administrators must be able to:
+
+- View all members.
+- Search members.
+- Filter by county and category.
+- Review applications.
+- Approve applications.
+- Reject applications.
+- Request additional documents.
+- Edit permitted member records.
+- Suspend memberships.
+- Reactivate memberships.
+- Revoke memberships.
+- Process renewals.
+- Generate membership cards.
+- Export member registers.
+- View membership history.
+
+Maintain a complete audit trail of administrative actions.
+
+6.3 User Roles and Permissions
+
+Implement the following roles:
+
+1. Super Administrator.
+2. National Chairperson.
+3. National Secretary.
+4. Membership Administrator.
+5. Finance Officer.
+6. County Coordinator.
+7. Sub-County Coordinator.
+8. Ward Representative.
+9. Communications Officer.
+10. Welfare Officer.
+11. Safety and Security Officer.
+12. Member.
+
+Each role must have configurable permissions.
+
+County officers should only access members and records assigned to their authorized geographical areas.
+
+Financial records, personal identity documents and disciplinary information must have restricted access.
+
+6.4 National and County Management
+
+Build a hierarchical geographical management system.
+
+Structure:
+
+National Level
+→ County Level
+→ Sub-County Level
+→ Ward Level
+→ Local Chapter / Rider Group
+
+Allow authorized administrators to:
+
+- Create counties.
+- Create sub-counties.
+- Register wards.
+- Create local chapters.
+- Assign officers.
+- Transfer members between regions.
+- Generate regional membership reports.
+
+Provide county-level dashboards and reporting.
+
+---
+
+PART 7: PAYMENTS AND FINANCIAL MANAGEMENT
+
+Develop a configurable financial management module.
+
+Support integration with M-Pesa Daraja API for:
+
+- Membership registration payments.
+- Membership renewal fees.
+- Approved contributions.
+- Event registration.
+- Other authorized association payments.
+
+Provide a payment interface with:
+
+- Amount payable.
+- Payment description.
+- Member reference.
+- M-Pesa phone number.
+- Transaction status.
+- Receipt generation.
+
+Implement secure payment callbacks and transaction reconciliation.
+
+Support payment statuses:
+
+- Pending.
+- Successful.
+- Failed.
+- Reversed.
+- Refunded.
+
+Prevent duplicate payment processing.
+
+Allow the finance department to:
+
+- View transactions.
+- Search payment records.
+- Reconcile payments.
+- Generate financial reports.
+- Download receipts.
+- Export transaction registers.
+
+Do not invent membership fees. Make all fee structures configurable by authorized administrators.
+
+Payment integration must use genuine API credentials supplied through secure environment variables. Never expose API keys or payment credentials in frontend code.
+
+---
+
+PART 8: NEWS, COMMUNICATION AND EVENTS
+
+Create a comprehensive communication management system.
+
+8.1 News and Announcements
+
+Allow authorized administrators to publish:
+
+- Official association statements.
+- Government and regulatory updates.
+- Industry news.
+- Member announcements.
+- Safety alerts.
+- Advocacy updates.
+- Press releases.
+- Community stories.
+
+Support featured images, categories, publication dates and social sharing.
+
+8.2 Events and Training
+
+Create an events management system.
+
+Features:
+
+- Upcoming events.
+- Training workshops.
+- Safety sensitization programs.
+- County meetings.
+- National meetings.
+- Stakeholder engagements.
+- Community initiatives.
+
+Allow members to register for events and receive confirmations.
+
+Provide event attendance management and downloadable attendance registers.
+
+8.3 Notifications
+
+Support:
+
+- In-platform notifications.
+- Email notifications.
+- SMS notifications.
+- WhatsApp integration, where officially configured.
+
+Important notifications include:
+
+- Application received.
+- Membership approved.
+- Membership rejected.
+- Membership renewed.
+- Payment confirmation.
+- Account security alerts.
+- Upcoming events.
+- Safety and emergency alerts.
+
+---
+
+PART 9: POLICIES, GOVERNANCE AND DOCUMENT LIBRARY
+
+Create a professional policy and resource centre.
+
+Organize documents into categories:
+
+1. Association Constitution and Bylaws.
+2. Safety Policy.
+3. Security Policy.
+4. Disciplinary Code.
+5. Environmental Policy.
+6. Gender Equality Policy.
+7. Sexual Harassment Policy.
+8. Mob Injustice Policy.
+9. Media and Communications Policy.
+10. Membership Policy.
+11. Data Protection and Privacy Policy.
+12. Operational Guidelines.
+
+Each policy should have:
+
+- Title.
+- Description.
+- Category.
+- Publication date.
+- Effective date.
+- Version number.
+- Document file.
+- Download button.
+- Responsible department.
+
+Allow authorized administrators to upload, update and archive policies.
+
+Maintain version history so users can identify the current approved document.
+
+Do not invent official policy wording. Use documents supplied by the association.
+
+---
+
+PART 10: PROJECTS, PARTNERSHIPS AND COMMUNITY IMPACT
+
+Create a dedicated section showcasing the association's activities.
+
+Include:
+
+- Community development.
+- Road safety campaigns.
+- Rider training.
+- Children's home visits.
+- Environmental initiatives.
+- Welfare programs.
+- Economic empowerment projects.
+- Government engagements.
+- Strategic partnerships.
+- Corporate social responsibility.
+
+Each project page should support:
+
+- Project title.
+- Description.
+- Objectives.
+- Location.
+- Implementation date.
+- Partner organizations.
+- Project photographs.
+- Outcomes and impact.
+- Related news.
+
+Create an image gallery and impact reporting section.
+
+Include a dedicated partnership page inviting:
+
+- Government agencies.
+- County governments.
+- Financial institutions.
+- Insurance companies.
+- Motorcycle manufacturers.
+- Technology companies.
+- Fuel and energy providers.
+- Development partners.
+- NGOs and civil society organizations.
+
+Add a partnership inquiry form.
+
+---
+
+PART 11: CONTACT AND PUBLIC ENGAGEMENT
+
+Create a professional contact page.
+
+Include the association's verified official contact information:
+
+Website: https://digitalboda.co.ke/
+
+Email:
+info@digitalboda.co.ke
+admin@digitalboda.co.ke
+
+Telephone:
++254 710 353 974
++254 702 423004
++254 723 983222
+
+Office:
+Westlands Market, C41, Second Floor, Nairobi, Kenya.
+
+Provide:
+
+- Contact form.
+- Office location map.
+- Telephone links.
+- Email links.
+- WhatsApp contact.
+- Social media links.
+- General inquiries.
+- Membership inquiries.
+- Partnership inquiries.
+
+Allow the administrator to update contact information.
+
+---
+
+PART 12: TECHNOLOGY AND DEVELOPMENT ARCHITECTURE
+
+Build a real, scalable and maintainable application.
+
+Recommended architecture:
+
+Frontend:
+
+- React.
+- TypeScript.
+- Modern responsive CSS.
+- Tailwind CSS or an equivalent professional styling system.
+- Reusable components.
+- Lucide icons.
+
+Backend:
+
+- Secure REST API or equivalent backend architecture.
+- Supabase or PostgreSQL database.
+- Secure authentication.
+- Server-side validation.
+- Role-based authorization.
+- Secure document storage.
+
+Database:
+Use a properly normalized relational database.
+
+Create tables for:
+
+- users
+- members
+- membership_applications
+- membership_categories
+- membership_cards
+- membership_verification_logs
+- counties
+- sub_counties
+- wards
+- chapters
+- leadership
+- roles
+- permissions
+- payments
+- payment_receipts
+- announcements
+- events
+- event_registrations
+- policies
+- policy_versions
+- support_tickets
+- incident_reports
+- projects
+- partnerships
+- audit_logs
+- notifications
+
+Establish proper foreign-key relationships and database constraints.
+
+Use secure row-level access policies where supported.
+
+12.1 Security Requirements
+
+Implement:
+
+- Secure authentication.
+- Password hashing.
+- Multi-factor authentication for privileged users.
+- Role-based authorization.
+- Input validation.
+- Protection against SQL injection.
+- Cross-site scripting protection.
+- CSRF protection where applicable.
+- Secure file uploads.
+- Rate limiting.
+- Audit logging.
+- Encrypted communications.
+- Secure session management.
+- Regular database backups.
+
+Ensure compliance with applicable Kenyan data protection requirements, including the Data Protection Act, 2019.
+
+Collect only necessary personal information.
+
+Provide appropriate privacy notices, consent management, data retention and access controls.
+
+12.2 Integrations
+
+Prepare the platform for:
+
+- M-Pesa Daraja API.
+- SMS gateway.
+- Email delivery service.
+- WhatsApp Business API.
+- QR-code generation.
+- Google Maps.
+- PDF membership card generation.
+
+Use secure configuration and environment variables for external integrations.
+
+Where credentials or third-party approvals are unavailable, build the integration architecture and clearly identify the configuration required. Do not simulate a successful live transaction or verification.
+
+---
+
+PART 13: RESPONSIVENESS AND USER EXPERIENCE
+
+The website must be fully optimized for:
+
+- Android smartphones.
+- iPhones.
+- Tablets.
+- Laptops.
+- Desktop computers.
+
+Mobile experience is a priority because many association members will access the platform using smartphones.
+
+Requirements:
+
+- Mobile-first design.
+- Lightweight pages.
+- Optimized images.
+- Fast loading.
+- Accessible forms.
+- Clear navigation.
+- Readable typography.
+- Touch-friendly buttons.
+- Minimal data consumption.
+- Helpful error messages.
+- Loading indicators.
+- Success confirmations.
+- Empty-state screens.
+
+Make the member registration and verification processes simple enough for users with limited technical experience.
+
+---
+
+PART 14: SEO AND DIGITAL VISIBILITY
+
+Optimize the website for search engines.
+
+Include:
+
+- SEO-friendly URLs.
+- Unique page titles.
+- Meta descriptions.
+- Open Graph metadata.
+- XML sitemap.
+- Robots.txt.
+- Structured data where appropriate.
+- Image alt text.
+- Social media sharing.
+- Canonical URLs.
+
+Target relevant search terms such as:
+
+- Digital Boda Kenya.
+- Boda Boda Association Kenya.
+- Digital Boda Drivers and Deliveries Association.
+- Boda Boda Membership Kenya.
+- Boda Boda Safety Kenya.
+- Delivery Riders Association Kenya.
+
+---
+
+PART 15: REQUIRED PAGES AND ROUTES
+
+Implement at least the following routes:
+
+PUBLIC WEBSITE
+
+/
+/about
+/organization
+/leadership
+/services
+/membership
+/membership/register
+/membership/benefits
+/verify-member
+/news
+/news/:slug
+/events
+/projects
+/partnerships
+/resources
+/policies
+/contact
+/privacy-policy
+/terms-and-conditions
+
+MEMBER PORTAL
+
+/member-portal
+/member-portal/dashboard
+/member-portal/profile
+/member-portal/membership-card
+/member-portal/payments
+/member-portal/notifications
+/member-portal/events
+/member-portal/support
+/member-portal/documents
+
+ADMINISTRATIVE PORTAL
+
+/admin
+/admin/dashboard
+/admin/members
+/admin/applications
+/admin/verification
+/admin/membership-categories
+/admin/payments
+/admin/counties
+/admin/leadership
+/admin/chapters
+/admin/events
+/admin/announcements
+/admin/policies
+/admin/projects
+/admin/support
+/admin/reports
+/admin/users
+/admin/roles
+/admin/settings
+/admin/audit-logs
+
+Ensure all routes have functional navigation and appropriate authorization.
+
+---
+
+PART 16: IMPLEMENTATION AND QUALITY ASSURANCE
+
+Do not stop after creating the homepage.
+
+Build the complete application incrementally, including the frontend, backend, database schema, authentication, membership registration, verification engine, member portal and administrative dashboard.
+
+All buttons, links, forms, navigation items and dashboard actions must work.
+
+Do not use non-functional placeholder buttons.
+
+Do not hardcode member records, membership statistics, payment histories or verification results.
+
+Where demonstration data is required, clearly label it as DEMO DATA and isolate it from production records.
+
+Mandatory Testing
+
+Test the following workflows:
+
+1. A new rider registers.
+2. The application is submitted successfully.
+3. An administrator reviews the application.
+4. The administrator approves the application.
+5. The system generates a unique membership number.
+6. A digital membership card is generated.
+7. The member logs in.
+8. The member accesses the digital membership card.
+9. A third party scans the card QR code.
+10. The public verification page retrieves the live membership record.
+11. An administrator suspends the membership.
+12. The verification page immediately reflects the suspended status.
+13. An administrator reactivates the membership.
+14. The member receives a notification.
+15. Payment records are reconciled correctly.
+16. County officers can only access authorized regional records.
+
+Test mobile responsiveness, security, form validation, database relationships and error handling.
+
+---
+
+FINAL DELIVERY REQUIREMENTS
+
+Deliver a complete, professional, scalable and production-oriented DBDDAK digital platform.
+
+The final product must include:
+
+1. A premium corporate website.
+2. A functional membership registration system.
+3. A secure member portal.
+4. A live public membership verification system.
+5. QR-enabled digital membership cards.
+6. A comprehensive administrative dashboard.
+7. National, county, sub-county and ward management.
+8. Membership and financial reporting.
+9. M-Pesa integration architecture.
+10. News, events and notification management.
+11. Policies and document management.
+12. Projects and partnership management.
+13. Secure authentication and permissions.
+14. Mobile-responsive design.
+15. Deployment documentation.
+
+Prioritize functional completeness, data security, user experience and maintainability.
+
+The website must position DBDDAK as a credible, modern, nationally coordinated association that is committed to transforming Kenya's boda boda and delivery industry through safety, professionalism, technology and economic empowerment.
+
+IMPORTANT: Build a complete working system, not just a visual prototype.

@@ -1,0 +1,6 @@
+{
+  "name": "Digital Boda Drivers & Deliveries Association of Kenya (DBDDAK)",
+  "description": "Official digital headquarters, membership registration, verification, member portal, and administrative platform for DBDDAK. Promoting safety, professionalism, and economic empowerment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

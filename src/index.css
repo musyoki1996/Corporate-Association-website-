@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --brand-navy: #101F68;
+    --brand-navy-dark: #0A1445;
+    --brand-orange: #F04416;
+    --brand-orange-hover: #D9380F;
+    --brand-charcoal: #202633;
+    --brand-bg: #F8FAFC;
+    --brand-light: #F4F6FA;
+  }
+}
+
+/* Print styling for digital membership cards and certificates */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #printable-membership-card, #printable-membership-card * {
+    visibility: visible;
+  }
+  #printable-membership-card {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .no-print {
+    display: none !important;
+  }
+}
